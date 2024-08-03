@@ -1,0 +1,343 @@
+body{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.HeaderDiv{
+    
+  padding-left: 10%;
+  padding-right: 10%;
+    max-width: 80%;
+   height: 80px;
+  
+    display: flex;
+    
+   }
+
+.On11Logo{
+    width: 90px;
+    height: 40px;
+  margin: auto; 
+    margin-top: 20px;
+    margin: 20px;
+}
+.On11LogoInside{
+background-color: blue;
+width: 90px;
+height: 40px;
+border-radius: 20px;
+display: flex;
+}
+.On11Logoyazi{
+    width: 50px;
+    height: 40px;
+    color: white;
+   
+}
+.On11Logoreqem{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+}
+.On11LogoyaziH1{
+font-size: 28px;
+margin: auto;
+margin-top: 5px;
+margin-left: 8px;
+}
+.On11LogoreqemH1{
+    font-size: 25px;
+    margin: auto;
+margin-left: 3px;
+color: blue;
+font: sans;
+}
+
+.KataloqH2{
+   margin-top: 25px;
+   margin-left: 15px;
+    width: 80px;
+    height: 40px;
+ font-size: 25px;
+}
+.Search{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 60%;
+    height: 40px;
+   
+}
+.SearchBar{
+    
+    width: 100%;
+    height: 40px;
+   border-radius: 20px;
+
+}
+.AvtorizasiyaButton{
+background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 40px;
+}
+.MagazaOlButton{
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 150px;
+    height: 40px;   
+    background-color: blue;
+    color: white;
+}
+.AzRuDiv{
+    height: 40px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+.AzRuButton{
+    border: transparent;
+    background-color:transparent ;
+}
+.Kategoriyalar{
+    margin-left: 10%;
+    max-width: 80%;
+    height: 150px;
+    
+}
+.KategoriyalarSira{
+
+    display: flex;
+   max-width: 100%;
+    height: 25%;
+  
+}
+.KategoriyalarDene{
+ margin-left: 1%;
+    width: 19%;
+    height: 80%;
+  
+    display: flex;
+}
+.Picture{
+    margin-top: 40px;
+    width: 80%;
+    height: 300px;
+   margin-left: 10%;
+   
+
+}
+.KategoriyalarLogo{
+    margin-left: 3px;
+    margin-top: 14px;
+    width: 22px;
+    height: 22px;
+    border-radius: 20px;
+    background-color:#E6E6FF;
+}
+
+.KategoriyalarMehsulunAdiP{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    height: 20px;
+    width: 200px;
+    margin-left: 5px;
+    color: #5C5C5C;
+}
+.PictureImg{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.ButunReklamlar{
+    width: 80%;
+    height: 1900px;
+   margin-left: 10%;
+   margin-top: 40px;
+   
+}
+.EndirimliSmartfonlar{
+width: 100%;
+height: 450px;
+
+}
+.Endirimlihisse{
+    height: 80px;
+    width: 100%;
+    display: flex;
+  
+}
+.EndirimliMehsullarP{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 80%;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+.HamisiniGorDiv{
+    margin-left: 780px;
+}
+.HamisiniGorA{
+    text-decoration:none;
+    color: blue;
+    
+    font-family: Arial, Helvetica, sans-serif;  
+}
+.EndirimliMehsullarDene{
+    width: 20%;
+    
+}
+.TelefonSekli{
+    width: 200px;
+    height: 180px;
+}
+.TelefonAdi{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: large;
+    color: #404040;
+}
+.TelefonMelumatlari{
+    color: #5C5C5C;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px;
+}
+.TelefonQiymetLogo{
+    display: flex;
+}
+.TelefonQiymet{
+    margin-top: 8px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #404040;
+    font-weight: 700;
+}
+.TelefonLogo{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 2px;
+}
+.EndirimliMehsullar{
+    display: flex;
+}
+.MelumatVeElaqe{
+    width: 80%;
+    height: 250px;
+    margin-left: 10%;
+}
+.Melumat{
+    display: flex;
+}
+.LogoVeYazi{
+    width: 40%;
+}
+.QisaMelumat{
+    height: 68px;
+    width: 100%;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #5C5C5C;
+    font-weight: 500;
+}
+.Unvan{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #868686;
+
+}
+.Haqqimizda{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #5C5C5C;
+}
+.BizimHaqqimizda{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #5C5C5C;
+}
+.SirketHaqqinda{
+    width: 20%;
+    height: 250px;
+}
+.YardimHissesi{
+    width: 20%;
+    height: 250px;
+}
+.ServisHissesi{
+    width: 20%;
+    height: 250px;
+}
+.Elaqe{
+    display: flex;
+    width: 100%;
+    height: 70px; 
+}
+.SosialMedia{
+    width: 33%;
+    height: 100%;
+    
+}
+.fa {
+    border-radius: 90px;
+    padding: 15px;
+    font-size: 10px;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .Huquqlar{
+    width: 33%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-top: 10px;
+    padding-left: 200px;
+    font-size: 14px;
+    width: 40%;
+    height: 100%;
+    color: #5C5C5C;
+  }
+  .Destek{
+    width: 33%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding-top: 10px;
+    padding-left: 300px;
+    font-size: 14px;
+    width: 10%;
+    height: 100%;
+    color: #5C5C5C;
+  }
